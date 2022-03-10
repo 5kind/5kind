@@ -8,4 +8,4 @@
 5kindness/5kindness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-oh, yes, this nothing here since I am a lazy_dog
+oh, yes, there is nothing here since I am a lazy_dog
