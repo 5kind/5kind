@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @5kindness
+- 👋 Hi, I’m @5kind
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-5kindness/5kindness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5kind/5kind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-oh, yes, there is nothing here since I am a lazy_dog
+There is nothing here since I am a lazy dog.
